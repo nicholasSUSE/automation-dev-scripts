@@ -1,0 +1,6 @@
+write-kubeconfig-mode: "0644"
+write-kubeconfig: "/home/nick/RANCHER_DEV_ROOT_DIR/rke2/config"
+debug: true
+cni: "canal"
+node-label: "rke2"
+

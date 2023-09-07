@@ -1,0 +1,6 @@
+busybox
+cert-manager
+fleet
+gitjob
+rancher/rancher
+registry

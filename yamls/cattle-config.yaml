@@ -1,0 +1,3 @@
+rancher:
+  host: "localhost:8443"
+  adminToken: "token-xqz5w:t4lmqhvslgzczdlns2xv6pr2dsr52qn9zrhtsx5gqmmfmcj56dpw44"
